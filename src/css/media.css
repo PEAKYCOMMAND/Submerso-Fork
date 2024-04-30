@@ -49,7 +49,7 @@
     position: absolute;
     z-index: 100;
     right: 17%;
-    top: 18%;
+    top: 287px;
     background-color: rgb(143, 81, 143);
     padding: 2px 5px;
     font-size: 30px;
@@ -62,7 +62,7 @@
    position: absolute;
     z-index: 100;
     left: 17%;
-    top: 18%;
+    top: 287px;
     background-color: rgb(143, 81, 143);
     padding: 2px 5px;
     font-size: 30px;
